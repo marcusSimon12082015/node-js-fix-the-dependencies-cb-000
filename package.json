@@ -28,6 +28,7 @@
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
-    "five": "^0.8.0"
+    "five": "^0.8.0",
+    "pluggable-flatiron": "git+https://github.com/learn-co-curriculum/node-js-pluggable-flatiron.git"
   }
 }
